@@ -1,7 +1,6 @@
 ### About me
----
-- I'm currently taking a QA course
-- On the course, I have already studied:
+- 👩‍💻 I'm currently taking a QA course
+- ✅ On the course, I have already studied:
     - [Linux Terminal](https://github.com/OksanaIs/Terminal)
     - [JSON](https://github.com/OksanaIs/JSON) and [XML](https://github.com/OksanaIs/XML) formats
     - [GitHub](https://github.com/OksanaIs/Hard_skills)
