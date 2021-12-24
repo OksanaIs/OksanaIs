@@ -5,6 +5,7 @@
     - [JSON](https://github.com/OksanaIs/JSON) and [XML](https://github.com/OksanaIs/XML) structures
     - [GitHub](https://github.com/OksanaIs/Hard_skills)
     - [Postman](https://github.com/OksanaIs/Postman)
+    - [SQL](https://github.com/OksanaIs/SQL)
  ---
  You can contact me: [Linkedin](https://www.linkedin.com/in/iskandarovaoksana/) | [Telegram](@IsOksana)
 
