@@ -7,7 +7,7 @@
     - [Postman](https://github.com/OksanaIs/Postman)
     - [SQL](https://github.com/OksanaIs/SQL)
  ---
- You can contact me: [Linkedin](https://www.linkedin.com/in/iskandarovaoksana/) | [Telegram](@IsOksana)
+ You can contact me: [Linkedin](https://www.linkedin.com/in/iskandarovaoksana/) | [Telegram](@IsOksana) | [Facebook](https://www.facebook.com/oks.iskandarova)
 
 
 <!---
