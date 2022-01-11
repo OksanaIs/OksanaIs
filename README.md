@@ -6,6 +6,7 @@
     - [GitHub](https://github.com/OksanaIs/Hard_skills)
     - [Postman](https://github.com/OksanaIs/Postman)
     - [SQL](https://github.com/OksanaIs/SQL)
+    - [DevTools (Chrome)](https://github.com/OksanaIs/DevTools)
  ---
  You can contact me: [Linkedin](https://www.linkedin.com/in/iskandarovaoksana/) | [Telegram](@IsOksana) | [Facebook](https://www.facebook.com/oks.iskandarova)
 
