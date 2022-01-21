@@ -25,6 +25,7 @@
 #### How to reach me:
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/iskandarovaoksana)
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat-square&logo=Telegram)](@IsOksana)
+[![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=Gmail)](mailto:oks.iskandarova@gmail.com)
 
 <!---
 OksanaIs/OksanaIs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
