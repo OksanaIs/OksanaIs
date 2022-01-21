@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a bigginner QA Enginner
+### Hi there 👋 I'm a biginner QA Enginner
 #### About me
 - 👩‍💻 I'm now taking a QA course where I am pumping practical skills
 - ✅ On the course, I have already studied:
