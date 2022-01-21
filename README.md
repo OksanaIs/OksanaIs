@@ -24,7 +24,7 @@
 
 #### How to reach me:
 [![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=flat-square&logo=Linkedin)](https://www.linkedin.com/in/iskandarovaoksana)
-[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat-square&logo=Telegram)](@IsOksana)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?style=flat-square&logo=Telegram)](https://telegram.me/IsOksana)
 [![Gmail](https://img.shields.io/badge/-Gmail-000000?style=flat-square&logo=Gmail)](mailto:oks.iskandarova@gmail.com)
 
 <!---
