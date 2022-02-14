@@ -1,4 +1,4 @@
-### Hi there 👋 I'm a beginner QA Enginner
+### Hi there 👋 I'm a beginner QA Engineer
 #### About me
 - 👩‍💻 I'm taking a QA course where I'm pumping my practical skills
 - ✅ I have already studied:
