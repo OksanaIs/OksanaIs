@@ -8,8 +8,9 @@
     - [Postman](https://github.com/OksanaIs/Postman)
     - [SQL](https://github.com/OksanaIs/SQL)
     - [DevTools (Chrome)](https://github.com/OksanaIs/DevTools)
-    - Mobile Testing: [Mobile app testing checklist](https://github.com/OksanaIs/Mobile_Testing/blob/main/Homework_1_Checklists/Checklist_Mob_App.md), [Android and iOS Guidelines checklist](https://github.com/OksanaIs/Mobile_Testing/tree/main/Homework_1_Checklists)
-    - I'm also taking a course in [Python](https://github.com/OksanaIs/Python)
+    - [Charles, Fiddler](https://github.com/OksanaIs/Charles_Fiddler)
+    - Mobile Testing: [Mobile app testing checklist](https://docs.google.com/spreadsheets/d/1eYYvZUGu8NO7OdK35F4VXIePrQ8TY6CF/edit?rtpof=true&sd=true#gid=1291684751), [Android and iOS Guidelines checklist](https://github.com/OksanaIs/Mobile_Testing/tree/main/Homework_1_Checklists)
+    - Test Documentation: [Bag Report, Test Case, Checklist](https://github.com/OksanaIs/Mobile_Testing)
  ---
 #### Tools:
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="github" width="40" height="40"/> </a>
