@@ -9,6 +9,7 @@
     - [SQL](https://github.com/OksanaIs/SQL)
     - [DevTools (Chrome)](https://github.com/OksanaIs/DevTools)
     - [Charles, Fiddler](https://github.com/OksanaIs/Charles_Fiddler)
+    - [Jmeter](https://github.com/OksanaIs/Jmeter)
     - Mobile Testing: [Mobile app testing checklist](https://docs.google.com/spreadsheets/d/1eYYvZUGu8NO7OdK35F4VXIePrQ8TY6CF/edit?rtpof=true&sd=true#gid=1291684751), [Android and iOS Guidelines checklist](https://github.com/OksanaIs/Mobile_Testing/tree/main/Homework_1_Checklists)
     - Test Documentation: [Bag Report, Test Case, Checklist](https://github.com/OksanaIs/Mobile_Testing)
  ---
